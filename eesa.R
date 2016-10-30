@@ -1,6 +1,9 @@
 # Exploratory Event Sequence Analysis, by Andrey Barsky
 # Version 0.8 - full support for vector projected critical value determination
 
+# this particular program is deprecated - use saber instead
+
+
 # By default, input for this program should be a text, csv or excel file in the format:
 # a b c a b c
 # a b b c a b b
